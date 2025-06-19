@@ -1,2 +1,4 @@
 django==3.2.*
 psycopg2-binary==2.9.*
+environs==14.2.0
+legacy-cgi; python_version >= '3.13'
